@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BackGustavo
+- 👋 Hi, I’m Gustavo Back
 - 👀 I’m interested in create and add experience and knowledge
 - 🌱 I’m currently learning systems development
 - 💞️ I’m looking to collaborate on an opportunity to develop and improve my knowledge
