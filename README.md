@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BackGustavo
 - 👀 I’m interested in create learning
 - 🌱 I’m currently learning systems development
-- 💞️ I’m looking to collaborate on Looking for an opportunity to develop and improve my knowledge
+- 💞️ I’m looking to collaborate on an opportunity to develop and improve my knowledge
 - 📫 How to reach me by email: guback@gmail.com
 
 <!---
